@@ -1,6 +1,6 @@
 {
   "name": "react-native-template-with-nativebaseio-mobx-ts",
-  "version": "0.0.3",
+  "version": "0.0.2",
   "description": "A react native boilerplate with NativeBase.io, Mobx, React Query, Axios and in Typescript setup.",
   "repository": {
     "type": "git",
