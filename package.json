@@ -1,10 +1,10 @@
 {
-  "name": "@draigar/react-native-with-native-base-mobx-ts",
+  "name": "@draigar/react-native-template-with-nativebaseio-mobx-ts",
   "version": "0.0.1",
   "description": "A react native boilerplate with NativeBase.io, Mobx, React Query, Axios and in Typescript setup.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/draigar/react-native-with-native-base-mobx-ts.git"
+    "url": "git+https://github.com/draigar/react-native-template-with-nativebaseio-mobx-ts.git"
   },
   "author": "Draigar Francis Benjamin <siscorule@gmail.com>",
   "license": "MIT",
@@ -25,7 +25,7 @@
   },
   "devDependencies": {},
   "bugs": {
-    "url": "https://github.com/draigar/react-native-with-native-base-mobx-ts/issues"
+    "url": "https://github.com/draigar/react-native-template-with-nativebaseio-mobx-ts/issues"
   },
-  "homepage": "https://github.com/draigar/react-native-with-native-base-mobx-ts#readme"
+  "homepage": "https://github.com/draigar/react-native-template-with-nativebaseio-mobx-ts#readme"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "react-native-with-native-base-mobx-ts",
+  "name": "react-native-template-with-nativebaseio-mobx-ts",
   "version": "0.0.2",
   "scripts": {
     "android": "react-native run-android",
