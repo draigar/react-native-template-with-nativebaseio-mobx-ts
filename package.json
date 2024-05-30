@@ -1,5 +1,5 @@
 {
-  "name": "@draigar/react-native-template-with-nativebaseio-mobx-ts",
+  "name": "react-native-template-with-nativebaseio-mobx-ts",
   "version": "0.0.1",
   "description": "A react native boilerplate with NativeBase.io, Mobx, React Query, Axios and in Typescript setup.",
   "repository": {

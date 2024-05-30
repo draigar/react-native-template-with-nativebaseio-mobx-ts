@@ -1,6 +1,4 @@
 module.exports = {
-    placeholderName: 'Boilerplate',
-    titlePlaceholder: 'Francis Benjamin React Native Boilerplate',
+    placeholderName: 'ReactNative Boilerplate',
     templateDir: './template',
-    postInitScript: './post-init.script.js',
-};
+  }
